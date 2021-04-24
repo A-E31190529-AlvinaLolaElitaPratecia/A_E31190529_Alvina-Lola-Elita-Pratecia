@@ -33,7 +33,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/icon1"
+        android:src="@drawable/icon13"
         android:alpha="0.4"
         android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"
