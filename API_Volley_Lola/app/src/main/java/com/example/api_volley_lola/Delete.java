@@ -1,7 +1,6 @@
 package com.example.api_volley_lola;
 
 import android.app.ProgressDialog;
-import android.app.VoiceInteractor;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;

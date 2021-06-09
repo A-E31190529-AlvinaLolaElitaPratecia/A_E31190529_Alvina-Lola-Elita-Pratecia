@@ -72,7 +72,8 @@ public class MainActivity extends AppCompatActivity {
         pd.setCancelable(false);
         pd.show();
         // system.out.println("Mengambil Data");
-        JsonArrayRequest reqData = new JsonArrayRequest(Request.Method.POST,ServerAPI.URL_DATA,null,new Response.Listener<JSONArray>(){
+        JsonArrayRequest reqData = new JsonArrayRequest(Request.Method.POST,ServerAPI.URL_DATA,null,
+                new Response.Listener<JSONArray>(){
             @Override
             public void onResponse(JSONArray response){
                 System.out.println("Length :" +response.length());

@@ -9,7 +9,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    tools:context="com.example.api_volley_ana.Delete">
+    tools:context="com.example.api_volley_lola.Delete">
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
